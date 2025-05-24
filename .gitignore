@@ -1,5 +1,8 @@
 venv
-puzzle*.txt
-sample*.txt
-*puzzle*
-*input.txt
+*sample*.txt
+*puz*txt
+.ipynb_checkpoints
+*.png
+*undercons*
+*.jpg
+*input*txt
