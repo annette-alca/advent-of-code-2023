@@ -1,5 +1,7 @@
-My Python solutions to https://adventofcode.com/2023/
+My Python solutions to https://adventofcode.com/2023/. 
 
-I continue to work on the challenges. However, all solutions in this repo are complete. 
+All solutions in this repo are complete. And I continue to work on these challenges (to get to day25).
+
+My solutions use a mix of matrices, arrays, recursive functions, numpy operations, and classes. They're a fun way to practice both coding and creative problem-solving.
 
 -Annette
