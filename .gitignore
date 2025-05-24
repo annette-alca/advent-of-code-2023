@@ -1,0 +1,4 @@
+venv
+puzzle*.txt
+sample*.txt
+*puzzle*
